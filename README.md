@@ -19,5 +19,5 @@ Before you begin, ensure you have Node.js installed on your system. You can down
 To install the CLI tool, clone the repository and navigate to the directory containing the CLI script.
 
 ```bash
-git clone https://yourrepository.git
-cd your-cli-directory
+git clone https://github.com/KavindaS94/JS-CLI-Tool.git
+cd JS-CLI-Tool
